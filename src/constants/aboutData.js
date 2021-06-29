@@ -7,7 +7,7 @@ const aboutData = [
     },
     {
         id: 2,
-        subHead: "Software Developer",
+        subHead: "Developer",
         details: "I am a constant learner in the field of web development. Currently, I am focusing on frontend technologies like React. If you have something in your mind and want to convert it into code",
         link: "Let's talk about it!"
     },
